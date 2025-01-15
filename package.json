@@ -11,6 +11,7 @@
   "description": "",
   "devDependencies": {
     "@types/jest": "^29.5.14",
+    "@types/mocha": "^10.0.10",
     "@types/node": "^22.10.1",
     "@typescript-eslint/eslint-plugin": "^8.16.0",
     "@typescript-eslint/parser": "^8.16.0",
@@ -25,6 +26,7 @@
     "typescript": "^5.7.2"
   },
   "dependencies": {
-    "date-fns": "^4.1.0"
+    "date-fns": "^4.1.0",
+    "tp_archi": "file:"
   }
 }
